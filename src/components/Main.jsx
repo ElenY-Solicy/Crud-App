@@ -47,7 +47,7 @@ function Main() {
 
   return (
     <>
-      <div className={styles.btnWrapper}>
+      <div className={styles.btn-wrapper}>
         <button className={styles.btn} onClick={handleSort}>
           Sort
         </button>
